@@ -13,7 +13,6 @@ Customer-first mobile product engineering. I build thoughtful mobile experiences
 
 I design and build mobile products that solve real customer problems, improve through iteration, and create measurable value.
 
-- Based between the UK and France
 - Product Engineer with a focus on mobile
 - Customer-first product thinking
 - Interested in AI products and experimentation
@@ -42,6 +41,6 @@ I design and build mobile products that solve real customer problems, improve th
 
 <div align="center">
 
-"Useful products are not just built — they are shaped around people, tested with evidence, and improved through iteration."
+"Useful products are not just built, they are shaped around people, tested with evidence, and improved through iteration."
 
 </div>
